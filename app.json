@@ -1,5 +1,5 @@
 {
-  "name": "Queen Anita V4",
+  "name": "gangsta",
   "description": "A WhatsApp Bot Created By David Cyril",
   "logo": "https://telegra.ph/file/f6230a0cb5b118fa01561.jpg",
   "keywords": ["bot", "WhatsApp", "JavaScript"],
@@ -12,7 +12,9 @@
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot. You can set `all | . | .!*`",
-      "value": "."
+      "
+{"noiseKey":{"private":{"type":"Buffer","data":"IO+UwWjr1sMWyEnCW7F4AhcM6JULjThsp+INtLeXV2A="},"public":{"type":"Buffer","data":"I8lJgeJsEej3J5DOurxxr0kDi9t8jBlqkz5sFIviw3c="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"kJUCBmpJwfw57Z1NhWSeOWCucuJd9wvCqt8IxEmen3o="},"public":{"type":"Buffer","data":"PdUaDDjuy/rgPikPRtoH9FgTTPh4RSVciUXnhO6P8Cg="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"IF1JiwhdgMUvrgSUcEb/yzMDydo8qB4LYfh02OtuYlQ="},"public":{"type":"Buffer","data":"jITznaHlUWWcIv8NxZsJFTtxB6Xd2Tu60Kl6tU1isyY="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"8CYJvDgrVlwS4nqSrG1YG2xfdbWvU+ZPR24T0HxfjUE="},"public":{"type":"Buffer","data":"pa4o/2Dl839awxYWEm83UmzukZM7qkrllTirijiBRGM="}},"signature":{"type":"Buffer","data":"rzAHfh0c8DJpNtSf3MbUcXgUU6NVe88XthUJuqUb8StXkCEQ+ZInZjqzMCZc2SUatkkOMD3D/+zEYjA2rhLRAw=="},"keyId":1},"registrationId":61,"advSecretKey":"Xi9AQMuS4BE2BXk+5K3pIcvN3bW8OAlBmWuFfwoTaG0=","processedHistoryMessages":[{"key":{"remoteJid":"263711632032@s.whatsapp.net","fromMe":true,"id":"89C658B5B26D4E67661A8BBD6DD17986"},"messageTimestamp":1749413406},{"key":{"remoteJid":"263711632032@s.whatsapp.net","fromMe":true,"id":"1B9E59A8565CED76BBD06C88E0C5A7F1"},"messageTimestamp":1749413406}],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":1,"accountSettings":{"unarchiveChats":false},"registered":true,"pairingCode":"CYRILDEV","me":{"id":"263711632032:34@s.whatsapp.net","lid":"256161026691210:34@lid","name":"gangsta 2.0"},"account":{"details":"CLmSuSkQkNyXwgYYASAAKAA=","accountSignatureKey":"D+8OiMRNukB2KW438nGQjtH/7B+kHow+l0pY3UpzwjM=","accountSignature":"6tDmP0RRL23gsi1BUyYd5PykSsVwULE+uPUEKWrQJoK7729oAkBLhwHzC1vOO1tQ9l5O/wvtMSGfzPZBWOP9DQ==","deviceSignature":"qosqOwkcsCVt4KkggZ+d2e2aGlrIf1OxTLMkXl1H2szqn5JmGbiO/RmktBgbvaW31bNZu+NpCskhTaEWJISuAQ=="},"signalIdentities":[{"identifier":{"name":"263711632032:34@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BQ/vDojETbpAdiluN/JxkI7R/+wfpB6MPpdKWN1Kc8Iz"}}],"platform":"android","routingInfo":{"type":"Buffer","data":"CAUICA=="},"lastAccountSyncTimestamp":1749413401,"lastPropHash":"nm3Bb","myAppStateKeyId":"AAAAAF05"}
+  ": "."
     },
     "AUTO_REACT": {
       "description": "Set true to auto-react to messages.",
